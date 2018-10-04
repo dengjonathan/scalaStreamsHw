@@ -56,6 +56,7 @@ trait StringParserTerrain extends GameDef {
    */
   def terrainFunction(levelVector: Vector[Vector[Char]]): Pos => Boolean = {
     pos => {
+      // TODO: how do I destructure a case class in scala?
       val row = pos.row
       val col = pos.col
       levelVector.lift(row).flatMap(_.lift(col)).fold(false)(this.isValidPos(_))
@@ -70,7 +71,16 @@ trait StringParserTerrain extends GameDef {
    * Hint: you can use the functions `indexWhere` and / or `indexOf` of the
    * `Vector` class
    */
-  def findChar(c: Char, levelVector: Vector[Vector[Char]]): Pos = ???
+  def findChar(c: Char, levelVector: Vector[Vector[Char]]): Pos = {
+    val positions = for {
+      (row, rowInd) <- levelVector.zipWithIndex
+      (pos, colInd) <- row.zipWithIndex
+      if pos == c
+    } yield Pos(rowInd, colInd)
+    // throws if Char is not found
+    // should only be one instance of search char in list
+    positions(0)
+  }
 
   private lazy val vector: Vector[Vector[Char]] =
     Vector(level.split("\n").map(str => Vector(str: _*)): _*)

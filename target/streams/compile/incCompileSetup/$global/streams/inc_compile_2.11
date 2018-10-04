@@ -1,0 +1,451 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/jonathandeng/Downloads/streams/target/scala-2.11/classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.12
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+34 items
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> /Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> /Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/common/package$.class
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> /Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/common/package.class
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> /Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/Bloxorz$.class
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> /Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/Bloxorz$InfiniteLevel$.class
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> /Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/Bloxorz$Level.class
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> /Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/Bloxorz$Level0$.class
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> /Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/Bloxorz$Level1$.class
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> /Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/Bloxorz$delayedInit$body.class
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> /Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/Bloxorz.class
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> /Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/GameDef$Block$$anonfun$1.class
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> /Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/GameDef$Block$.class
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> /Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/GameDef$Block.class
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> /Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/GameDef$Down$.class
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> /Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/GameDef$Left$.class
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> /Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/GameDef$Move.class
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> /Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/GameDef$Pos$.class
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> /Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/GameDef$Pos.class
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> /Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/GameDef$Right$.class
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> /Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/GameDef$Up$.class
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> /Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/GameDef$class.class
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> /Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/GameDef.class
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/InfiniteTerrain.scala -> /Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/InfiniteTerrain$$anonfun$1.class
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/InfiniteTerrain.scala -> /Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/InfiniteTerrain$class.class
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/InfiniteTerrain.scala -> /Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/InfiniteTerrain.class
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Solver.scala -> /Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/Solver$class.class
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Solver.scala -> /Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/Solver.class
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> /Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/StringParserTerrain$$anonfun$streams$StringParserTerrain$$vector$1.class
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> /Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/StringParserTerrain$$anonfun$terrainFunction$1$$anonfun$apply$1.class
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> /Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/StringParserTerrain$$anonfun$terrainFunction$1$$anonfun$apply$2.class
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> /Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/StringParserTerrain$$anonfun$terrainFunction$1$$anonfun$apply$3.class
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> /Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/StringParserTerrain$$anonfun$terrainFunction$1.class
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> /Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/StringParserTerrain$class.class
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> /Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/StringParserTerrain.class
+binary dependencies:
+12 items
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/rt.jar
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> /Users/jonathandeng/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/rt.jar
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> /Users/jonathandeng/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/rt.jar
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> /Users/jonathandeng/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/InfiniteTerrain.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/rt.jar
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/InfiniteTerrain.scala -> /Users/jonathandeng/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Solver.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/rt.jar
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Solver.scala -> /Users/jonathandeng/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/rt.jar
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> /Users/jonathandeng/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+7 items
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> /Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> /Users/jonathandeng/Downloads/streams/src/main/scala/streams/InfiniteTerrain.scala
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> /Users/jonathandeng/Downloads/streams/src/main/scala/streams/Solver.scala
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> /Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/InfiniteTerrain.scala -> /Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Solver.scala -> /Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> /Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+6 items
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> /Users/jonathandeng/Downloads/streams/src/main/scala/streams/InfiniteTerrain.scala
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> /Users/jonathandeng/Downloads/streams/src/main/scala/streams/Solver.scala
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> /Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/InfiniteTerrain.scala -> /Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Solver.scala -> /Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> /Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala
+inheritance external dependencies:
+0 items
+class names:
+34 items
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> common.package
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> common.package$
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> common.package$$anonfun$subFile$1
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> streams.Bloxorz
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> streams.Bloxorz$
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> streams.Bloxorz$InfiniteLevel$
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> streams.Bloxorz$Level
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> streams.Bloxorz$Level0$
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> streams.Bloxorz$Level1$
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> streams.Bloxorz$delayedInit$body
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef$Block
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef$Block$
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef$Block$$anonfun$1
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef$Down$
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef$Left$
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef$Move
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef$Pos
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef$Pos$
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef$Right$
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef$Up$
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef$class
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/InfiniteTerrain.scala -> streams.InfiniteTerrain
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/InfiniteTerrain.scala -> streams.InfiniteTerrain$$anonfun$1
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/InfiniteTerrain.scala -> streams.InfiniteTerrain$class
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Solver.scala -> streams.Solver
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Solver.scala -> streams.Solver$class
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> streams.StringParserTerrain
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> streams.StringParserTerrain$$anonfun$streams$StringParserTerrain$$vector$1
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> streams.StringParserTerrain$$anonfun$terrainFunction$1
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> streams.StringParserTerrain$$anonfun$terrainFunction$1$$anonfun$apply$1
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> streams.StringParserTerrain$$anonfun$terrainFunction$1$$anonfun$apply$2
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> streams.StringParserTerrain$$anonfun$terrainFunction$1$$anonfun$apply$3
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> streams.StringParserTerrain$class
+used names:
+226 items
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> ::
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> <init>
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> <repeated>
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> ?0
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> A
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> Any
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> AnyRef
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> B
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> Boolean
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> Class
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> File
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> FileInputStream
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> Function2
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> InputStream
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> List
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> None
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> Nothing
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> Object
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> Option
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> Predef
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> Some
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> String
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> URI
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> URL
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> _root_
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> child
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> children
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> classesDir
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> common
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> exists
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> file
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> foldLeft
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> getClass
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> getParentFile
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> getResource
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> io
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> java
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> package
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> projectDir
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> resourceFile
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> resourcePath
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> scala
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> subFile
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> toURI
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> <init>
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> Any
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> App
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> Bloxorz
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> InfiniteLevel
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> InfiniteTerrain
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> Int
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> Level
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> Level0
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> Level1
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> List
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> Move
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> Object
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> Pos
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> Predef
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> Solver
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> String
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> StringOps
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> StringParserTerrain
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> Unit
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> augmentString
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> goal
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> level
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> package
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> println
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> scala
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> solution
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> startPos
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> streams
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> stripMargin
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> &&
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> +
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> <=
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> <byname>
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> <init>
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> ==
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> ???
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> A
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> AbstractFunction2
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> Any
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> AnyRef
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> Block
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> Boolean
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> Down
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> Function1
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> GameDef
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> IndexOutOfBoundsException
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> Int
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> Iterator
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> Left
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> List
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> Move
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> None
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> Nothing
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> Object
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> Pos
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> Predef
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> Product
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> Right
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> ScalaRunTime
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> Serializable
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> Some
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> Statics
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> String
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> T
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> T0
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> T1
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> T2
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> Terrain
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> Tuple2
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> Unit
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> Up
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> _hashCode
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> _root_
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> _toString
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> asInstanceOf
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> b1
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> b2
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> col
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> common
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> d
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> d1
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> d2
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> deltaCol
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> deltaRow
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> eq
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> finalizeHash
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> isInstanceOf
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> isStanding
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> mix
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> package
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> require
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> row
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> runtime
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> scala
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> streams
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> toString
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> typedProductIterator
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> x$1
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> x$2
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> ||
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/InfiniteTerrain.scala -> Boolean
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/InfiniteTerrain.scala -> Function1
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/InfiniteTerrain.scala -> GameDef
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/InfiniteTerrain.scala -> InfiniteTerrain
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/InfiniteTerrain.scala -> Pos
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/InfiniteTerrain.scala -> Terrain
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/InfiniteTerrain.scala -> streams
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/InfiniteTerrain.scala -> terrain
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Solver.scala -> ???
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Solver.scala -> Block
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Solver.scala -> Boolean
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Solver.scala -> GameDef
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Solver.scala -> List
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Solver.scala -> Move
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Solver.scala -> Nothing
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Solver.scala -> Predef
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Solver.scala -> Set
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Solver.scala -> Solver
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Solver.scala -> Stream
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Solver.scala -> Tuple2
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Solver.scala -> common
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Solver.scala -> package
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Solver.scala -> scala
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Solver.scala -> streams
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> !=
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> <byname>
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> <repeated>
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> ???
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> A
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> Any
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> AnyRef
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> Array
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> ArrayOps
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> B
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> Boolean
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> CanBuildFrom
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> Char
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> Class
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> ClassTag
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> Function1
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> GameDef
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> Int
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> Nothing
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> Option
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> Pos
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> Predef
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> String
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> StringParserTerrain
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> T
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> Terrain
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> That
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> Vector
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> WrappedString
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> _$4
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> _$7
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> _root_
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> apply
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> canBuildFrom
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> col
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> common
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> findChar
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> flatMap
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> fold
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> isValidPos
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> level
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> levelVector
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> lift
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> map
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> materializeClassTag
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> package
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> pos
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> refArrayOps
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> row
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> scala
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> space
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> split
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> str
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> streams
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> terrainFunction
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> vector
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> wrapString
+product stamps:
+34 items
+/Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class -> lastModified(1538663450000)
+/Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/common/package$.class -> lastModified(1538663450000)
+/Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/common/package.class -> lastModified(1538663450000)
+/Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/Bloxorz$.class -> lastModified(1538665831000)
+/Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/Bloxorz$InfiniteLevel$.class -> lastModified(1538665831000)
+/Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/Bloxorz$Level.class -> lastModified(1538665831000)
+/Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/Bloxorz$Level0$.class -> lastModified(1538665831000)
+/Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/Bloxorz$Level1$.class -> lastModified(1538665831000)
+/Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/Bloxorz$delayedInit$body.class -> lastModified(1538665831000)
+/Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/Bloxorz.class -> lastModified(1538665831000)
+/Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/GameDef$Block$$anonfun$1.class -> lastModified(1538663451000)
+/Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/GameDef$Block$.class -> lastModified(1538663451000)
+/Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/GameDef$Block.class -> lastModified(1538663451000)
+/Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/GameDef$Down$.class -> lastModified(1538663451000)
+/Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/GameDef$Left$.class -> lastModified(1538663451000)
+/Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/GameDef$Move.class -> lastModified(1538663451000)
+/Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/GameDef$Pos$.class -> lastModified(1538663451000)
+/Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/GameDef$Pos.class -> lastModified(1538663451000)
+/Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/GameDef$Right$.class -> lastModified(1538663451000)
+/Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/GameDef$Up$.class -> lastModified(1538663451000)
+/Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/GameDef$class.class -> lastModified(1538663451000)
+/Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/GameDef.class -> lastModified(1538663450000)
+/Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/InfiniteTerrain$$anonfun$1.class -> lastModified(1538663451000)
+/Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/InfiniteTerrain$class.class -> lastModified(1538663451000)
+/Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/InfiniteTerrain.class -> lastModified(1538663451000)
+/Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/Solver$class.class -> lastModified(1538663451000)
+/Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/Solver.class -> lastModified(1538663451000)
+/Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/StringParserTerrain$$anonfun$streams$StringParserTerrain$$vector$1.class -> lastModified(1538665830000)
+/Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/StringParserTerrain$$anonfun$terrainFunction$1$$anonfun$apply$1.class -> lastModified(1538665830000)
+/Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/StringParserTerrain$$anonfun$terrainFunction$1$$anonfun$apply$2.class -> lastModified(1538665830000)
+/Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/StringParserTerrain$$anonfun$terrainFunction$1$$anonfun$apply$3.class -> lastModified(1538665830000)
+/Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/StringParserTerrain$$anonfun$terrainFunction$1.class -> lastModified(1538665830000)
+/Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/StringParserTerrain$class.class -> lastModified(1538665830000)
+/Users/jonathandeng/Downloads/streams/target/scala-2.11/classes/streams/StringParserTerrain.class -> lastModified(1538665830000)
+source stamps:
+6 items
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> hash(885b8f12a5b2a83dad658f76cc1fdd678a38d4a8)
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> hash(1f1e1210e763c5fc0c82387ec0ddc39a929d9118)
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> hash(46979284f33ac05719dc5ce9ceb49603b6587cf9)
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/InfiniteTerrain.scala -> hash(bb43830f6c61b8ab29553af959146eb9d8850dff)
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Solver.scala -> hash(de882c9186036aaa1dbe8d7a3f0db072da4c0342)
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> hash(5092562df3ed03caa42a5733f52bf155638aeec2)
+binary stamps:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1475301657000)
+/Users/jonathandeng/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar -> lastModified(1509673049000)
+class names:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/jonathandeng/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar -> scala.App
+internal apis:
+6 items
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwB2GhlgABc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAYc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwyb4xfHQABm5vdGlmeXNxAH4ADLd7app0AAdwYWNrYWdlc3EAfgAMJhK6tnQABHdhaXRzcQB+AAzx5+qMdAANJGFzSW5zdGFuY2VPZnNxAH4ADM2K/A90AAZlcXVhbHNzcQB+AAzxbFRpdAAMYXNJbnN0YW5jZU9mc3EAfgAMzsiFSnQADHN5bmNocm9uaXplZHNxAH4ADFjDlPV0AA0kaXNJbnN0YW5jZU9mc3EAfgAMqj2IS3QAF3Jlc291cmNlQXNTdHJlYW1Gcm9tU3Jjc3EAfgAMg3y8U3QACW5vdGlmeUFsbHNxAH4ADCYkqcp0AAxpc0luc3RhbmNlT2ZzcQB+AAxpxNpvdAADPz8/c3EAfgAMmnpgkXQAAj09c3EAfgAM8o3wU3QABWNsb25lc3EAfgAMZ0zWI3QAB3N1YkZpbGVzcQB+AAwkK+HodAAIdG9TdHJpbmdzcQB+AAw/usRqdAACIT1zcQB+AAwIl7qqdAAIZ2V0Q2xhc3NzcQB+AAwIKkOTdAACbmVzcQB+AAwadAmLdAACZXFzcQB+AAyTEjXPdAACIyNzcQB+AAyNdORTdAAIZmluYWxpemVzcQB+AAxU1D+IdAAIaGFzaENvZGVzcQB+AAx7bUT0dAADKioqc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AR3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQADmNvbW1vbi5wYWNrYWdldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBfc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEdMAAlpbmhlcml0ZWRxAH4AR0wAB3BhcmVudHNxAH4AR3hxAH4AZHNxAH4AX3VxAH4AQgAAAABzcQB+AF91cQB+AEIAAAAAc3EAfgBfdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBjdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBjc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB8dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB9c3EAfgBwdAADQW55c3EAfgB0c3EAfgB3dXEAfgB6AAAAAnNxAH4AfHQABXNjYWxhcQB+AIN1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZjb21tb25zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWY/fJ7mdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAPy9Vc2Vycy9qb25hdGhhbmRlbmcvRG93bmxvYWRzL3N0cmVhbXMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFIhbjxKlsqg9rWWPdswf3WeKONSo
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw9wHZcwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAABPc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwW1GPFnQABGRvd25zcQB+AAwRYwLfdAAGbm90aWZ5c3EAfgAMCBoFaXQAB3VuYXBwbHlzcQB+AAyuckipdAAHY3VycmllZHNxAH4ADCW2B9x0AAVMZXZlbHNxAH4ADGjoMUl0AAhkZWx0YVJvd3NxAH4ADBJFKlh0AAR3YWl0c3EAfgAMsp9oUHQACGRlbHRhQ29sc3EAfgAMs4p91HQAAmIyc3EAfgAMZP7qXnQADmxlZ2FsTmVpZ2hib3Jzc3EAfgAM9PAMGHQADmNvcHkkZGVmYXVsdCQyc3EAfgAM1xqqZ3QADSRhc0luc3RhbmNlT2ZzcQB+AAxUL6vAdAAKaXNWYWxpZFBvc3NxAH4ADCjhBeJ0ABBuZXdOZWlnaGJvcnNPbmx5c3EAfgAMXKSr1HQABkxldmVsMHNxAH4ADIAbUP50AAxwcm9kdWN0QXJpdHlzcQB+AAzWaT1bdAAOcGF0aHNGcm9tU3RhcnRzcQB+AAxR1AT3dAAGZXF1YWxzc3EAfgAMNkp6THQAAnVwc3EAfgAMEzTXTHQAB0Jsb3hvcnpzcQB+AAygdC3RdAAMYXNJbnN0YW5jZU9mc3EAfgAMeCmWpXQADmV4ZWN1dGlvblN0YXJ0c3EAfgAMHVUz1HQACW5laWdoYm9yc3NxAH4ADM9i8Ch0AAxzeW5jaHJvbml6ZWRzcQB+AAy/qnjqdAAEbGVmdHNxAH4ADJxEZjN0AA0kaXNJbnN0YW5jZU9mc3EAfgAMHadMeXQABnR1cGxlZHNxAH4ADCQY8At0AARnb2Fsc3EAfgAMB8UEsXQAAmIxc3EAfgAM+7kE3nQACGNhbkVxdWFsc3EAfgAMMvqTlnQAA3Jvd3NxAH4ADLHSFMR0AARtYWluc3EAfgAMRgbvpXQAD3RlcnJhaW5GdW5jdGlvbnNxAH4ADE0nupN0AA1wcm9kdWN0UHJlZml4c3EAfgAM4pVwgXQABkxldmVsMXNxAH4ADJqjK+50AAlub3RpZnlBbGxzcQB+AAzHX5pYdAAMaXNJbnN0YW5jZU9mc3EAfgAMU+XsYXQACHNvbHV0aW9uc3EAfgAMJUnlz3QABjxpbml0PnNxAH4ADKWn+MR0AARNb3Zlc3EAfgAMWGhYF3QABWFwcGx5c3EAfgAMPA7Fe3QAAj09c3EAfgAM2ffbCXQAA2NvbHNxAH4ADMlyLcp0AAREb3duc3EAfgAMPzxxn3QABExlZnRzcQB+AAxgLpLqdAAFY2xvbmVzcQB+AAzr1N7bdAAHdGVycmFpbnNxAH4ADN33OKF0AAtwYXRoc1RvR29hbHNxAH4ADCxKRTZ0AARmcm9tc3EAfgAMIVyCY3QABiRpbml0JHNxAH4ADOotF+d0AAdpc0xlZ2Fsc3EAfgAMgZ9v8XQACnN0YXJ0QmxvY2tzcQB+AAzvRBsJdAAKaXNTdGFuZGluZ3NxAH4ADNXBR0d0AAJVcHNxAH4ADKrm4E50AARjb3B5c3EAfgAMb5qiLHQABGRvbmVzcQB+AAxePmqQdAAIdG9TdHJpbmdzcQB+AAx2Dd35dAAEYXJnc3NxAH4ADB8zUyF0AAhmaW5kQ2hhcnNxAH4ADAP97iF0AA1JbmZpbml0ZUxldmVsc3EAfgAMQFpvsXQAA1Bvc3NxAH4ADEFN3gJ0AAIhPXNxAH4ADDm6s2J0AAhnZXRDbGFzc3NxAH4ADMV6mWt0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADAhINjt0ABRuZWlnaGJvcnNXaXRoSGlzdG9yeXNxAH4ADCfexMB0AAdUZXJyYWluc3EAfgAMPNnO73QAAm5lc3EAfgAMhlw+RnQACHN0YXJ0UG9zc3EAfgAMErDO3HQABUJsb2Nrc3EAfgAMmpWZyXQABVJpZ2h0c3EAfgAMeSFijHQAAmVxc3EAfgAMdpLJb3QAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADGT5L1F0AAVyaWdodHNxAH4ADIk0KBh0AAtkZWxheWVkSW5pdHNxAH4ADDcNim50AAIjI3NxAH4ADGA+95d0AAhmaW5hbGl6ZXNxAH4ADFt025l0AA5wcm9kdWN0RWxlbWVudHNxAH4ADKh4/st0AAhoYXNoQ29kZXNxAH4ADMPZYsB0AAVsZXZlbHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ALV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0AA9zdHJlYW1zLkJsb3hvcnp1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAac2NhbGEuZGVwcmVjYXRlZE92ZXJyaWRpbmd0ABBzY2FsYS5kZXByZWNhdGVkc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AM9zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AtUwACWluaGVyaXRlZHEAfgC1TAAHcGFyZW50c3EAfgC1eHEAfgDUc3EAfgDPdXEAfgCwAAAAAHNxAH4Az3VxAH4AsAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AtnEAfgC/dXEAfgDAAAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4A3nhwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AA1MAAV2YWx1ZXEAfgANeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgDTdAAUZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ANNzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+APhzcQB+AMIAcQB+AE11cQB+AMUAAAAAc3EAfgDrdAAEVW5pdHEAfgDxdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4A3nhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AyHQABVBsYWlucQB+AIFzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AOxbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+ANNzcQB+AOt0AAVBcnJheXEAfgDxdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AOt0AAZTdHJpbmdzcQB+AO9zcQB+APJ1cQB+APUAAAADc3EAfgD3dAAEamF2YXNxAH4A93QABGxhbmdxAH4A/HNxAH4Az3VxAH4BEwAAAARzcQB+AOt0AANBcHBxAH4A8XNxAH4A63QAC0RlbGF5ZWRJbml0cQB+APFzcQB+AOt0AAZPYmplY3RxAH4BF3NxAH4A63QAA0FueXEAfgDxdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAHc3RyZWFtc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZj+hV+Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA/L1VzZXJzL2pvbmF0aGFuZGVuZy9Eb3dubG9hZHMvc3RyZWFtcy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUHx4SEOdjxfwMgjh+wN3DmpKdkRg=
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwo3H/ZgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAA8c3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwWVWUU3QABGRvd25zcQB+AAy90mmmdAAGbm90aWZ5c3EAfgAMlwf6C3QAB3VuYXBwbHlzcQB+AAzZhhyTdAAHY3VycmllZHNxAH4ADAZLAax0AAhkZWx0YVJvd3NxAH4ADL6uRah0AAdHYW1lRGVmc3EAfgAM7Df443QABHdhaXRzcQB+AAxCl6wsdAAIZGVsdGFDb2xzcQB+AAwKRO0bdAACYjJzcQB+AAwo6ULbdAAObGVnYWxOZWlnaGJvcnNzcQB+AAxNio2WdAAOY29weSRkZWZhdWx0JDJzcQB+AAyEyB9ddAANJGFzSW5zdGFuY2VPZnNxAH4ADNUkMQB0AAxwcm9kdWN0QXJpdHlzcQB+AAyODHg1dAAGZXF1YWxzc3EAfgAMTVnuLHQAAnVwc3EAfgAM8GL7tHQADGFzSW5zdGFuY2VPZnNxAH4ADECnES10AAluZWlnaGJvcnNzcQB+AAyGzDaydAAMc3luY2hyb25pemVkc3EAfgAMijTHtXQABGxlZnRzcQB+AAzT1UOHdAANJGlzSW5zdGFuY2VPZnNxAH4ADNPJPzd0AAZ0dXBsZWRzcQB+AAzqzSUGdAAEZ29hbHNxAH4ADLOOsqF0AAJiMXNxAH4ADHbIbjB0AAhjYW5FcXVhbHNxAH4ADJrAg1t0AANyb3dzcQB+AAwj8QVQdAANcHJvZHVjdFByZWZpeHNxAH4ADIuGSHx0AAlub3RpZnlBbGxzcQB+AAyE8c3jdAAMaXNJbnN0YW5jZU9mc3EAfgAM2sv1G3QABjxpbml0PnNxAH4ADN274/p0AARNb3Zlc3EAfgAMSTYBMXQABWFwcGx5c3EAfgAMor1a+3QAAj09c3EAfgAMSC7wHnQAA2NvbHNxAH4ADMRPl550AAREb3duc3EAfgAMOs5lyXQABExlZnRzcQB+AAwdgMdIdAAFY2xvbmVzcQB+AAwFamkOdAAHdGVycmFpbnNxAH4ADH1OVHJ0AAYkaW5pdCRzcQB+AAwArlCadAAHaXNMZWdhbHNxAH4ADCuz9gt0AApzdGFydEJsb2Nrc3EAfgAMTwgz4HQACmlzU3RhbmRpbmdzcQB+AAzLCg9adAACVXBzcQB+AAyNMxxUdAAEY29weXNxAH4ADC2x1rV0AAh0b1N0cmluZ3NxAH4ADNZnVZx0AANQb3NzcQB+AAwUlQEjdAACIT1zcQB+AAwkFslTdAAIZ2V0Q2xhc3NzcQB+AAzNaSfIdAAOY29weSRkZWZhdWx0JDFzcQB+AAyieO1OdAAHVGVycmFpbnNxAH4ADIy85Ll0AAJuZXNxAH4ADJUJ0n10AAhzdGFydFBvc3NxAH4ADDGA6Xl0AAVCbG9ja3NxAH4ADOlReoF0AAVSaWdodHNxAH4ADObBo1t0AAJlcXNxAH4ADFoemSx0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAz+eouNdAAFcmlnaHRzcQB+AAyXRFAOdAACIyNzcQB+AAzMnDtwdAAIZmluYWxpemVzcQB+AAwMZeNXdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAzsJlyFdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCPeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHABdAAPc3RyZWFtcy5HYW1lRGVmdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAFVHJhaXR1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AKdzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Aj0wACWluaGVyaXRlZHEAfgCPTAAHcGFyZW50c3EAfgCPeHEAfgCsc3EAfgCndXEAfgCKAAAAAHNxAH4Ap3VxAH4AigAAAABzcQB+AKd1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AKt0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AKtzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AMR0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AMVzcQB+ALh0AANBbnlzcQB+ALxzcQB+AL91cQB+AMIAAAACc3EAfgDEdAAFc2NhbGFxAH4Ay3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAB3N0cmVhbXNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWY/fJ7mdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAPy9Vc2Vycy9qb25hdGhhbmRlbmcvRG93bmxvYWRzL3N0cmVhbXMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFEaXkoTzOsBXGdxc6c60lgO2WHz5
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/InfiniteTerrain.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwFOkqzQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAA8c3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwmJ/SEnQABGRvd25zcQB+AAztViIodAAGbm90aWZ5c3EAfgAM9wsBSnQAB3VuYXBwbHlzcQB+AAxhLJgBdAAHY3VycmllZHNxAH4ADBmMhqp0AAhkZWx0YVJvd3NxAH4ADC++G+B0AAR3YWl0c3EAfgAMupjzbXQACGRlbHRhQ29sc3EAfgAMkfE+vnQAAmIyc3EAfgAMXQZ82XQADmxlZ2FsTmVpZ2hib3Jzc3EAfgAMQvc1RHQADmNvcHkkZGVmYXVsdCQyc3EAfgAMy4Bu4XQADSRhc0luc3RhbmNlT2ZzcQB+AAx6Fc0MdAAMcHJvZHVjdEFyaXR5c3EAfgAMlcfm3HQABmVxdWFsc3NxAH4ADCBDQfV0AAJ1cHNxAH4ADHYKOjN0AA9JbmZpbml0ZVRlcnJhaW5zcQB+AAz7+efxdAAMYXNJbnN0YW5jZU9mc3EAfgAMAc92NnQACW5laWdoYm9yc3NxAH4ADEjkPdJ0AAxzeW5jaHJvbml6ZWRzcQB+AAxVBfbgdAAEbGVmdHNxAH4ADO9lNup0AA0kaXNJbnN0YW5jZU9mc3EAfgAMAkdo0HQABnR1cGxlZHNxAH4ADBlbEH50AARnb2Fsc3EAfgAMWbxo+XQAAmIxc3EAfgAMks+iHHQACGNhbkVxdWFsc3EAfgAMH74rXnQAA3Jvd3NxAH4ADJI5x8J0AA1wcm9kdWN0UHJlZml4c3EAfgAM+kTJD3QACW5vdGlmeUFsbHNxAH4ADKaIPUZ0AAxpc0luc3RhbmNlT2ZzcQB+AAwP3pepdAAGPGluaXQ+c3EAfgAMPDFYJ3QABE1vdmVzcQB+AAy5ZWmPdAAFYXBwbHlzcQB+AAzA4WYvdAACPT1zcQB+AAyGOaf0dAADY29sc3EAfgAMp09k2nQABERvd25zcQB+AAz8CkJedAAETGVmdHNxAH4ADKI2dEZ0AAVjbG9uZXNxAH4ADDlB3ht0AAd0ZXJyYWluc3EAfgAMNHiMtHQABiRpbml0JHNxAH4ADKp8mUF0AAdpc0xlZ2Fsc3EAfgAMgRjmE3QACnN0YXJ0QmxvY2tzcQB+AAwwnQsVdAAKaXNTdGFuZGluZ3NxAH4ADCYyC050AAJVcHNxAH4ADLkINiF0AARjb3B5c3EAfgAMmHL2VXQACHRvU3RyaW5nc3EAfgAMhcOeanQAA1Bvc3NxAH4ADOilu5h0AAIhPXNxAH4ADD6/97R0AAhnZXRDbGFzc3NxAH4ADGhPiPV0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADBBpLyx0AAdUZXJyYWluc3EAfgAMCWTOt3QAAm5lc3EAfgAM89LEbnQACHN0YXJ0UG9zc3EAfgAMFkwv33QABUJsb2Nrc3EAfgAMhfN+NnQABVJpZ2h0c3EAfgAMsirCR3QAAmVxc3EAfgAMHoDz8HQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADHwBVd10AAVyaWdodHNxAH4ADL44HpR0AAIjI3NxAH4ADJU+P350AAhmaW5hbGl6ZXNxAH4ADM6Mrfd0AA5wcm9kdWN0RWxlbWVudHNxAH4ADBRhPZx0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AI94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAF0ABdzdHJlYW1zLkluZmluaXRlVGVycmFpbnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABVRyYWl0dXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCnc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AI9MAAlpbmhlcml0ZWRxAH4Aj0wAB3BhcmVudHNxAH4Aj3hxAH4ArHNxAH4Ap3VxAH4AigAAAABzcQB+AKd1cQB+AIoAAAAAc3EAfgCndXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAANzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCrdAAHR2FtZURlZnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Aq3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAHc3RyZWFtc3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgDFc3EAfgC4dAAGT2JqZWN0c3EAfgC8c3EAfgC/dXEAfgDCAAAAA3NxAH4AxHQABGphdmFzcQB+AMR0AARsYW5ncQB+AMlzcQB+ALh0AANBbnlzcQB+ALxzcQB+AL91cQB+AMIAAAACc3EAfgDEdAAFc2NhbGFxAH4AyXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAB3N0cmVhbXNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWY/fJ7mdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAPy9Vc2Vycy9qb25hdGhhbmRlbmcvRG93bmxvYWRzL3N0cmVhbXMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFLtDgw9sYbirKVU6+VkUbrnYhQ3/
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Solver.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwhqVIvAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAABDc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwfN9V4XQABGRvd25zcQB+AAwuWdEFdAAGbm90aWZ5c3EAfgAMMDt4fXQAB3VuYXBwbHlzcQB+AAzG5G1pdAAHY3VycmllZHNxAH4ADJjN7bJ0AAhkZWx0YVJvd3NxAH4ADH42vf90AAR3YWl0c3EAfgAMx+YT43QACGRlbHRhQ29sc3EAfgAMCk1ZJ3QAAmIyc3EAfgAMLJsEz3QADmxlZ2FsTmVpZ2hib3Jzc3EAfgAMVUu52HQADmNvcHkkZGVmYXVsdCQyc3EAfgAMu3JSPnQADSRhc0luc3RhbmNlT2ZzcQB+AAyM1ql+dAAQbmV3TmVpZ2hib3JzT25seXNxAH4ADNMPu/B0AAxwcm9kdWN0QXJpdHlzcQB+AAyCbZQMdAAOcGF0aHNGcm9tU3RhcnRzcQB+AAywsncjdAAGZXF1YWxzc3EAfgAMuWx2UXQAAnVwc3EAfgAMCC+1eHQADGFzSW5zdGFuY2VPZnNxAH4ADBmxdAh0AAluZWlnaGJvcnNzcQB+AAyoDyFGdAAMc3luY2hyb25pemVkc3EAfgAM2Ut8I3QABGxlZnRzcQB+AAycED6KdAANJGlzSW5zdGFuY2VPZnNxAH4ADJSYOY50AAZ0dXBsZWRzcQB+AAwL8CdZdAAEZ29hbHNxAH4ADEa5qbB0AAJiMXNxAH4ADJo0DZR0AAhjYW5FcXVhbHNxAH4ADJKl01l0AANyb3dzcQB+AAyTKB8NdAANcHJvZHVjdFByZWZpeHNxAH4ADOzOaMN0AAlub3RpZnlBbGxzcQB+AAxkfepvdAAMaXNJbnN0YW5jZU9mc3EAfgAMQKMMH3QACHNvbHV0aW9uc3EAfgAMY993Q3QABjxpbml0PnNxAH4ADL8u5+B0AARNb3Zlc3EAfgAMG4wdFnQABWFwcGx5c3EAfgAMiKxoq3QAAj09c3EAfgAMufrg+3QAA2NvbHNxAH4ADH0DfFx0AAREb3duc3EAfgAMtRf8QHQABExlZnRzcQB+AAz3sqU3dAAFY2xvbmVzcQB+AAyVt4hRdAAHdGVycmFpbnNxAH4ADH2STmh0AAtwYXRoc1RvR29hbHNxAH4ADLcAgoF0AARmcm9tc3EAfgAMP2xsy3QABiRpbml0JHNxAH4ADOM7ptV0AAdpc0xlZ2Fsc3EAfgAM+SXN2HQACnN0YXJ0QmxvY2tzcQB+AAzpjdGgdAAKaXNTdGFuZGluZ3NxAH4ADDOdOW90AAJVcHNxAH4ADIbbG6x0AARjb3B5c3EAfgAMZo/vOXQABGRvbmVzcQB+AAzZ0vHzdAAGU29sdmVyc3EAfgAMiY3iH3QACHRvU3RyaW5nc3EAfgAMyp7RzXQAA1Bvc3NxAH4ADAbWzFh0AAIhPXNxAH4ADEJUnEB0AAhnZXRDbGFzc3NxAH4ADF19ICh0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADAjpHWR0ABRuZWlnaGJvcnNXaXRoSGlzdG9yeXNxAH4ADNaHNVR0AAdUZXJyYWluc3EAfgAMuOjMgnQAAm5lc3EAfgAMTQ+6P3QACHN0YXJ0UG9zc3EAfgAMgvZnanQABUJsb2Nrc3EAfgAMGNPoz3QABVJpZ2h0c3EAfgAML+5hU3QAAmVxc3EAfgAM92feF3QAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADJeJpzF0AAVyaWdodHNxAH4ADG0cw3J0AAIjI3NxAH4ADF7Q56t0AAhmaW5hbGl6ZXNxAH4ADDVCxdl0AA5wcm9kdWN0RWxlbWVudHNxAH4ADKwgQO10AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AJ14cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAF0AA5zdHJlYW1zLlNvbHZlcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABVRyYWl0dXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgC1c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AJ1MAAlpbmhlcml0ZWRxAH4AnUwAB3BhcmVudHNxAH4AnXhxAH4AunNxAH4AtXVxAH4AmAAAAABzcQB+ALV1cQB+AJgAAAAAc3EAfgC1dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAANzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgC5dAAHR2FtZURlZnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AuXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAHc3RyZWFtc3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgDTc3EAfgDGdAAGT2JqZWN0c3EAfgDKc3EAfgDNdXEAfgDQAAAAA3NxAH4A0nQABGphdmFzcQB+ANJ0AARsYW5ncQB+ANdzcQB+AMZ0AANBbnlzcQB+AMpzcQB+AM11cQB+ANAAAAACc3EAfgDSdAAFc2NhbGFxAH4A13VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAB3N0cmVhbXNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWY/fJ7mdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAPy9Vc2Vycy9qb25hdGhhbmRlbmcvRG93bmxvYWRzL3N0cmVhbXMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFN6ILJGGA2qqHb6Nej8NsHLaTANC
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwtS6FjwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAABAc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwtUa0M3QABGRvd25zcQB+AAxf6wHjdAAGbm90aWZ5c3EAfgAM/cF+RXQAB3VuYXBwbHlzcQB+AAy0PFsKdAAHY3VycmllZHNxAH4ADN8huLd0AAhkZWx0YVJvd3NxAH4ADD4RsD50AAR3YWl0c3EAfgAM07s/y3QACGRlbHRhQ29sc3EAfgAM1fqh/XQAAmIyc3EAfgAM/lyHInQADmxlZ2FsTmVpZ2hib3Jzc3EAfgAM82a11XQADmNvcHkkZGVmYXVsdCQyc3EAfgAMj1Zw0nQADSRhc0luc3RhbmNlT2ZzcQB+AAx75C9EdAAKaXNWYWxpZFBvc3NxAH4ADNBHEKp0AAxwcm9kdWN0QXJpdHlzcQB+AAwnfs+8dAAGZXF1YWxzc3EAfgAMJgldiHQAAnVwc3EAfgAMB+5/cXQADGFzSW5zdGFuY2VPZnNxAH4ADMIZrB10AAluZWlnaGJvcnNzcQB+AAwJMgD9dAAMc3luY2hyb25pemVkc3EAfgAMC5WSNHQABGxlZnRzcQB+AAwacGoMdAANJGlzSW5zdGFuY2VPZnNxAH4ADNnuoud0AAZ0dXBsZWRzcQB+AAyinUysdAAEZ29hbHNxAH4ADHWS+OR0AAJiMXNxAH4ADCgazIF0AAhjYW5FcXVhbHNxAH4ADMBJbeF0AANyb3dzcQB+AAxJZMpzdAAPdGVycmFpbkZ1bmN0aW9uc3EAfgAMF7w3Q3QADXByb2R1Y3RQcmVmaXhzcQB+AAxdDwImdAAJbm90aWZ5QWxsc3EAfgAMNBPTfXQADGlzSW5zdGFuY2VPZnNxAH4ADAW2eEt0AAY8aW5pdD5zcQB+AAxHLDY5dAAETW92ZXNxAH4ADGZchK50AAVhcHBseXNxAH4ADCNWc8t0AAI9PXNxAH4ADGxgdrh0AANjb2xzcQB+AAwHQVVKdAAERG93bnNxAH4ADNEwSwt0AARMZWZ0c3EAfgAM4W8GxnQABWNsb25lc3EAfgAMEqTasnQAB3RlcnJhaW5zcQB+AAz4UcxmdAAGJGluaXQkc3EAfgAMijjQL3QAB2lzTGVnYWxzcQB+AAxZSdzydAAKc3RhcnRCbG9ja3NxAH4ADBJ46zp0AAppc1N0YW5kaW5nc3EAfgAMZ6WdgXQAAlVwc3EAfgAMs+jJiXQAE1N0cmluZ1BhcnNlclRlcnJhaW5zcQB+AAywORkqdAAEY29weXNxAH4ADAOtyKZ0AAh0b1N0cmluZ3NxAH4ADETDUc90AAhmaW5kQ2hhcnNxAH4ADD1d+610AANQb3NzcQB+AAynRCLsdAACIT1zcQB+AAyFFhqrdAAIZ2V0Q2xhc3NzcQB+AAwfuiomdAAOY29weSRkZWZhdWx0JDFzcQB+AAwcL8WwdAAHVGVycmFpbnNxAH4ADCqT1bF0AAJuZXNxAH4ADMs/Ndt0AAhzdGFydFBvc3NxAH4ADHsqTSR0AAVCbG9ja3NxAH4ADGyGgFp0AAVSaWdodHNxAH4ADC+utr10AAJlcXNxAH4ADKWqAvR0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAzb7TdzdAAFcmlnaHRzcQB+AAyMG8O0dAACIyNzcQB+AAxf3lGAdAAIZmluYWxpemVzcQB+AAzUxHYQdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAymMFWsdAAIaGFzaENvZGVzcQB+AAwVDeTBdAAFbGV2ZWxzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCXeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHABdAAbc3RyZWFtcy5TdHJpbmdQYXJzZXJUZXJyYWludXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAFVHJhaXR1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AK9zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Al0wACWluaGVyaXRlZHEAfgCXTAAHcGFyZW50c3EAfgCXeHEAfgC0c3EAfgCvdXEAfgCSAAAAAHNxAH4Ar3VxAH4AkgAAAABzcQB+AK91cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAA3NyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ALN0AAdHYW1lRGVmc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCzc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAdzdHJlYW1zc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AM1zcQB+AMB0AAZPYmplY3RzcQB+AMRzcQB+AMd1cQB+AMoAAAADc3EAfgDMdAAEamF2YXNxAH4AzHQABGxhbmdxAH4A0XNxAH4AwHQAA0FueXNxAH4AxHNxAH4Ax3VxAH4AygAAAAJzcQB+AMx0AAVzY2FsYXEAfgDRdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAHc3RyZWFtc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZj+hU7Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA/L1VzZXJzL2pvbmF0aGFuZGVuZy9Eb3dubG9hZHMvc3RyZWFtcy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUUJJWLfPtA8qkKlcz9SvxVWOK7sI=
+external apis:
+0 items
+source infos:
+6 items
+/Users/jonathandeng/Downloads/streams/src/main/scala/common/package.scala -> 
+AAAAAAAAAAA=
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Bloxorz.scala -> 
+AAAAAAAAAAA=
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/GameDef.scala -> 
+AAAAAAAAAAA=
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/InfiniteTerrain.scala -> 
+AAAAAAAAAAA=
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/Solver.scala -> 
+AAAAAAAAAAA=
+/Users/jonathandeng/Downloads/streams/src/main/scala/streams/StringParserTerrain.scala -> 
+AAAAAAAAAAA=
+compilations:
+3 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZj98nuZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9Vc2Vycy9qb25hdGhhbmRlbmcvRG93bmxvYWRzL3N0cmVhbXMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZj+hU7Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9Vc2Vycy9qb25hdGhhbmRlbmcvRG93bmxvYWRzL3N0cmVhbXMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZj+hV+Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9Vc2Vycy9qb25hdGhhbmRlbmcvRG93bmxvYWRzL3N0cmVhbXMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
